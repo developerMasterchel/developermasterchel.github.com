@@ -134,8 +134,7 @@
       refer: encodeURIComponent(window.document.referrer),
       resolution: window.screen ? window.screen.width + 'X' + window.screen.height : '0X0'
     },
-    href: '//statistic.' + domain + '/statisticPlatform/tLog',
-    src: '//statistic.' + domain + '/statisticPlatform/tLog?page_id=' + pageId + (dataInfo ? '&data_info=' + dataInfo : ''),
+    
     params: {
       page_id: pageId,
       data_info: dataInfo
