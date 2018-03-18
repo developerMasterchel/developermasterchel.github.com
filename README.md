@@ -5,8 +5,8 @@
 <title>Chariesliven简历</title>
 <!--#set var='compatible' value=''-->
 <meta name="renderer" content="webkit"><!-- 使360浏览器 默认启用极速内核 -->
-<link rel="icon" href="https://concat.lietou-static.com/fe-c-pc/v5/static/favicon.c19cd042.ico" type="image/x-icon">
-<link rel="dns-prefetch" href="https://concat.lietou-static.com/">
+<!--# <link rel="icon" href="https://concat.lietou-static.com/fe-c-pc/v5/static/favicon.c19cd042.ico" type="image/x-icon"> -->
+<!-- <link rel="dns-prefetch" href="https://concat.lietou-static.com/"> -->
 <script charset="utf-8" src="./index_files/v.js"></script><script src="./index_files/hm.js"></script><script src="./index_files/loader.1e7c7e15.js"></script>
 <!--[if lt IE 9]>
 <script src="//concat.lietou-static.com/fe-c-pc/v5/static/js/html5shiv.40bd440d.js"></script>
@@ -52,8 +52,8 @@ FeLoader.get(
 <body id="resume-view">
 <!--#set var='compatible' value=''-->
 <script>FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/css/common/header.236ea41a.css');</script><link rel="stylesheet" href="./index_files/header.236ea41a.css" "="">
-<header id="header-p-beta2">
-  
+<header id="header-p">
+  <h5>Chariesliven简历</h5>
 </header>
 <script>FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/js/common/header.cb13531d.js');</script><script src="./index_files/header.cb13531d.js"></script>
 <div class="wrap view-wrap">
