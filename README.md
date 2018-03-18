@@ -53,32 +53,7 @@ FeLoader.get(
 <!--#set var='compatible' value=''-->
 <script>FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/css/common/header.236ea41a.css');</script><link rel="stylesheet" href="./index_files/header.236ea41a.css" "="">
 <header id="header-p-beta2">
-  <div class="header">
-    <div class="wrap">
-      <div class="logo">
-        <a href=""><img alt="logo" class="pngfix" src="" width="110" height="40"><em><i class="icons16 icons16-home-white" title="首页"></i></em></a>
-      </div>
-      <div class="quick-menu"><div class="quick-menu-logined-c"><style>#nodetpl_g_03726896074007897 .link-menu-list {  position: relative;}#nodetpl_g_03726896074007897 .drop-menu-single,#nodetpl_g_03726896074007897 .drop-menu-group,#nodetpl_g_03726896074007897 .drop-menu-friends,#nodetpl_g_03726896074007897 .drop-menu-message {  display: inline-block;  vertical-align: top;}#nodetpl_g_03726896074007897 .drop-menu-friends,#nodetpl_g_03726896074007897 .drop-menu-message {  display: none;}#nodetpl_g_03726896074007897 .drop-menu-friends a,#nodetpl_g_03726896074007897 .drop-menu-message a {  position: relative;  vertical-align: middle;  padding: 0 6px;}#nodetpl_g_03726896074007897 .drop-menu-friends a .red-dot,#nodetpl_g_03726896074007897 .drop-menu-message a .red-dot {  position: absolute;  top: -2px;  right: 7px;  z-index: 1;  width: 6px;  height: 6px;  background: #f00;  border-radius: 50%;}#nodetpl_g_03726896074007897 .drop-menu-message a .red-dot {  top: -1px;  right: 3px;}#nodetpl_g_03726896074007897 .drop-menu-group .drop-tips {  position: absolute;  top: 45px;  right: -5px;  display: none;  color: #333;}#nodetpl_g_03726896074007897 .drop-menu-group .drop-tips a {  color: #00528c;  text-decoration: none;}#nodetpl_g_03726896074007897 .drop-menu-group .drop-tips a:hover,#nodetpl_g_03726896074007897 .drop-menu-group .drop-tips a:focus {  color: #1d81c7;  text-decoration: underline;}#nodetpl_g_03726896074007897 .drop-menu-group .drop-tips .drop-loading {  width: 300px;  text-align: center;}#nodetpl_g_03726896074007897 .drop-menu-group-active .drop-tips {  display: block;}#nodetpl_g_03726896074007897 .drop-menu-single .link-drop-menu,#nodetpl_g_03726896074007897 .drop-menu-group .link-drop-menu {  display: inline-block;  vertical-align: top;  margin-top: 5px;  padding: 0 6px;  height: 45px;  line-height: 45px;  border-radius: 2px 2px 0 0;  position: relative;}#nodetpl_g_03726896074007897 .drop-menu-group-active .link-drop-menu {  background-color: #737b80;}#nodetpl_g_03726896074007897 .drop-menu-group .link-drop-menu .minixFace {  vertical-align: middle;  border-radius: 50%;}#nodetpl_g_03726896074007897 .drop-menu-group .link-drop-menu i.header-icons16-new-circle {  position: absolute;  right: 5px;  top: 8px;}#nodetpl_g_03726896074007897 .drop-menu-group .link-drop-menu em.notice-number {  position: absolute;  left: 28px;  top: 14px;  display: inline-block;  height: 15px;  line-height: 15px;  font-family: "Arial";  padding: 0 3px;  background-color: #e60012;  color: #fff;  box-shadow: 1px 1px 1px rgba(0,0,0,.2);}#nodetpl_g_03726896074007897 .drop-menu-group .link-drop-menu em.notice-number i {  position: absolute;  left: -10px;  top: 3px;  display: block;  border: 5px solid transparent;  _border: 5px dotted transparent;  border-right: 5px solid #e60012;  font-size: 0;  line-height: 0;}#nodetpl_g_03726896074007897 .link-menu-list .drop-menu-message .header-icons24-chat {  position: relative;  top: 2px;}#nodetpl_g_03726896074007897 .link-menu-list .header-icons16,#nodetpl_g_03726896074007897 .link-menu-list .header-icons24 {  margin-right: 0;  margin-top: 0;}</style><div id="nodetpl_g_03726896074007897">
-  <div class="link-menu-list">
-    <span class="drop-menu-single">
-     
-    </span>
-    
-      <span data-selector="drop-menu-friends" class="drop-menu-friends">
-       
-      </span>
-      <span data-selector="drop-menu-message" class="drop-menu-message">
-       
-      </span>
-    
-    <span data-selector="drop-menu-profile" class="drop-menu-group">
-      <div class="drop-tips"><div class="drop-loading">loading...</div></div>
-    </span>
-  </div>
-</div>
-</div></div>
-    </div>
-  </div>
+  
 </header>
 <script>FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/js/common/header.cb13531d.js');</script><script src="./index_files/header.cb13531d.js"></script>
 <div class="wrap view-wrap">
