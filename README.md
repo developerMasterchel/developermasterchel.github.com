@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- saved from url=(0066)https://c.liepin.com/resume/detail?res_id_encode=7a70987cU898e5cf6 -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <title>Chariesliven简历</title>
@@ -7,18 +6,11 @@
 <meta name="renderer" content="webkit"><!-- 使360浏览器 默认启用极速内核 -->
 <!--# <link rel="icon" href="https://concat.lietou-static.com/fe-c-pc/v5/static/favicon.c19cd042.ico" type="image/x-icon"> -->
 <!-- <link rel="dns-prefetch" href="https://concat.lietou-static.com/"> -->
-<script charset="utf-8" src="./index_files/v.js"></script><script src="./index_files/hm.js"></script><script src="./index_files/loader.1e7c7e15.js"></script>
+
 <!--[if lt IE 9]>
 <script src="//concat.lietou-static.com/fe-c-pc/v5/static/js/html5shiv.40bd440d.js"></script>
 <![endif]-->
-<script>
-FeLoader.get(
-  '//concat.lietou-static.com/fe-c-pc/v5/static/js/jquery-1.7.1.min.99a28ce2.js',
-  '//concat.lietou-static.com/fe-c-pc/v5/js/common/common.349f9feb.js',
-  '//concat.lietou-static.com/fe-c-pc/v5/css/common/common.47b4b69c.css',
-  '//concat.lietou-static.com/fe-c-pc/v5/css/common/message.9cfdd4ac.css'
-);
-</script><script src="./index_files/jquery-1.7.1.min.99a28ce2.js"></script><script src="./index_files/common.349f9feb.js"></script><style type="text/css">.lt-plugins-simplevaliderrortips {position:absolute;font-size:12px;background:#fff7e9;border:1px solid #ffd999;border-radius:5px;padding:4px 10px;color:#e75c00;line-height:20px;box-shadow:1px 1px 1px rgba(0,0,0,.1);z-index:997;}.lt-plugins-simplevaliderrortips  .error-content{white-space:nowrap;}.lt-plugins-simplevaliderrortips  em,.lt-plugins-simplevaliderrortips  i{position:absolute;bottom:-20px;left:20px;overflow:hidden;width:0;height:0;z-index:999;border-width:10px;border-style:solid;border-color:transparent transparent transparent transparent;_border-color:tomato tomato tomato tomato;border-top-color:#fff7e9;_filter:chroma(color=tomato);}.lt-plugins-simplevaliderrortips  em{bottom:-21px;z-index:998;border-top-color:#ffd999;}</style><link rel="stylesheet" href="./index_files/common.47b4b69c.css" "=""><link rel="stylesheet" href="./index_files/message.9cfdd4ac.css" "="">
+<script src="./index_files/jquery-1.7.1.min.99a28ce2.js"></script><script src="./index_files/common.349f9feb.js"></script><style type="text/css">.lt-plugins-simplevaliderrortips {position:absolute;font-size:12px;background:#fff7e9;border:1px solid #ffd999;border-radius:5px;padding:4px 10px;color:#e75c00;line-height:20px;box-shadow:1px 1px 1px rgba(0,0,0,.1);z-index:997;}.lt-plugins-simplevaliderrortips  .error-content{white-space:nowrap;}.lt-plugins-simplevaliderrortips  em,.lt-plugins-simplevaliderrortips  i{position:absolute;bottom:-20px;left:20px;overflow:hidden;width:0;height:0;z-index:999;border-width:10px;border-style:solid;border-color:transparent transparent transparent transparent;_border-color:tomato tomato tomato tomato;border-top-color:#fff7e9;_filter:chroma(color=tomato);}.lt-plugins-simplevaliderrortips  em{bottom:-21px;z-index:998;border-top-color:#ffd999;}</style><link rel="stylesheet" href="./index_files/common.47b4b69c.css" "=""><link rel="stylesheet" href="./index_files/message.9cfdd4ac.css" "="">
 <!--ç»è®¡ä»£ç  -->
 <script type="text/javascript">
   var _vds = _vds || [];
@@ -38,7 +30,7 @@ FeLoader.get(
         _vds.push(['setCS2', '_uuid', LT.Cookie.get('_uuid')]);
       }
 
-      FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/static/js/growingio-vds-lp.c97b9f3d.js');
+      
   })();
 
 </script><script src="./index_files/growingio-vds-lp.c97b9f3d.js"></script>
@@ -46,16 +38,16 @@ FeLoader.get(
 
 	<script type="text/javascript">
 		window.$CONFIG=[];
-	  	FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/css/pages/page.resume_view.b6cc192e.css');
+	  	
 	</script><link rel="stylesheet" href="./index_files/page.resume_view.b6cc192e.css" "="">
 </head>
 <body id="resume-view">
 <!--#set var='compatible' value=''-->
-<script>FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/css/common/header.236ea41a.css');</script><link rel="stylesheet" href="./index_files/header.236ea41a.css" "="">
+<link rel="stylesheet" href="./index_files/header.236ea41a.css" "="">
 <header id="header-p">
   <h5>Chariesliven简历</h5>
 </header>
-<script>FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/js/common/header.cb13531d.js');</script><script src="./index_files/header.cb13531d.js"></script>
+</script><script src="./index_files/header.cb13531d.js"></script>
 <div class="wrap view-wrap">
   <div class="view-main ">
   	<div class="view-content view-card clearfix">
@@ -534,7 +526,7 @@ FeLoader.get(
 </div>
 
 <!--#set var='compatible' value=''-->
-<script>FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/css/common/footer.83e3d6c6.css');</script><link rel="stylesheet" href="./index_files/footer.83e3d6c6.css" "="">
+<link rel="stylesheet" href="./index_files/footer.83e3d6c6.css" "="">
 <footer id="footer-p-beta2">
   <hr>
   <div class="wrap">
@@ -547,20 +539,13 @@ FeLoader.get(
 </footer>
 
 <script type="text/javascript">
-  FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/js/pages/page.resume_view.ab4cf491.js');
+
 </script><script src="./index_files/page.resume_view.ab4cf491.js"></script>
 <script type="text/javascript">
-	window.FeLoader && FeLoader.get('//concat.lietou-static.com/fe-c-pc/v5/static/js/stat.33b72ea9.js');
+	
 </script><script src="./index_files/stat.33b72ea9.js"></script>
 <script>var _hmt=_hmt||[];(function(){var hm=document.createElement("script");hm.src="//hm.baidu.com/hm.js?a2647413544f5a04f00da7eee0d5e200";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(hm,s);})();</script>
-<!-- <script type="text/javascript">
-  var _vds = _vds || [];(function() {
-  _vds.push(['setAccountId', '2abfd0d7eaa44a729d761fb028300b6c']);
-  _vds.push(['setOrigin', ('https:' == document.location.protocol ? 'https://' : 'http://') + 'liepin.growingio.com']);
-  _vds.push(['setSampling']);
-  _vds.push(['setCS1','user_id', 'xxxx']);
-  (function() {var vds = document.createElement('script'); vds.type='text/javascript'; vds.async = true;vds.src = '//concat.lietou-static.com/core/pc/js/common/vds.js';var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(vds, s);})();})();
-</script> -->
+
 <script type="text/javascript">
 if(LT.Browser.IE6 || LT.Browser.IE7 || LT.Browser.IE8){
 	  $('#header-c-beta2 [data-selector="drop-menu-friends"]').show().on('click', function(event) {
@@ -573,11 +558,7 @@ if(LT.Browser.IE6 || LT.Browser.IE7 || LT.Browser.IE8){
 	    vdialog.alert('æ¨çæµè§å¨çæ¬å¤ªä½ï¼è¯·æ´æ¢é«çº§æµè§å¨æèåçº§å½åæµè§å¨çæ¬è³9ä»¥ä¸');
 	  }
 }else{
-	FeLoader.get(
-		'//concat.lietou-static.com/fe-c-pc/v5/static/js/unpack_files/react.min.025fc274.js', 
-		'//concat.lietou-static.com/fe-c-pc/v5/static/js/unpack_files/react-dom.min.cfb23701.js', 
-		'//concat.lietou-static.com/fe-c-pc/v5/js/common/message.c152a368.js'
-	);
+
 }
 </script><script src="./index_files/react.min.025fc274.js"></script><script src="./index_files/react-dom.min.cfb23701.js"></script><script src="./index_files/message.c152a368.js"></script><div id="im-root" growing-ignore="true"><div data-reactroot=""><div class="set-box hide"><dl><dt>消息提醒设置</dt><dd><label><em class="webim-icons16 icons16-radio-checked"></em><!-- react-text: 19 -->接收消息并且提醒<!-- /react-text --></label></dd><dd><label><em class="webim-icons16 icons16-radio"></em><!-- react-text: 23 -->接收消息但不提醒<!-- /react-text --></label></dd></dl><dl><dt>对话框设置</dt><dd><label><em class="webim-icons16 icons16-radio-checked"></em><!-- react-text: 29 -->按Enter发送消息<!-- /react-text --></label></dd><dd><label><em class="webim-icons16 icons16-radio"></em><!-- react-text: 33 -->按Ctrl+Enter发送消息<!-- /react-text --></label></dd></dl><dl><dt>自动打招呼设置</dt><dd><label><em class="webim-icons16 icons16-radio-checked"></em><!-- react-text: 39 -->开启<!-- /react-text --></label><a class="" href="javascript:;">设置打招呼语</a></dd><dd><label><em class="webim-icons16 icons16-radio"></em><!-- react-text: 44 -->关闭<!-- /react-text --></label></dd></dl><span class="triangle"></span><!-- react-empty: 4 --></div><aside><a href="javascript:;" class="link-close-panel"><i class="webim-icons16 icons16-arrow"></i></a><ul><li><a href="javascript:;"><i class="side-icon side-icon-contacts active"></i><span>消息</span><em class="contactsdot hide">0</em></a></li><li><a href="javascript:;"><i class="side-icon side-icon-sns"></i><span>人脉</span><em class="dot hide"></em></a></li><li><a href="javascript:;"><i class="side-icon side-icon-notice"></i><span>通知</span><em class="dot hide"></em></a></li></ul><a href="javascript:;" class="link-open-setting"><i class="webim-icons16 icons16-setting-white"></i></a></aside><div class="main-content"><div class="contacts"><div class="contact-list"><div class="list-loading"><em></em></div></div></div><div class="sns hide"></div><div class="hide notice"><div class="list-loading"><em></em></div></div><div id="main-dialog-container"></div></div><div id="panel-dialog-container"><div data-reactroot="" class="im-dialog im-dialog-bottom hide"><div class="im-dialog-mask"></div><div class="im-dialog-main" style="width: 100%; margin-left: 0px; left: 0px; border-radius: 0px;"><a href="javascript:;" class="btn-close">×</a><div class="im-dialog-header"><a href="javascript:;" class="btn-back"><em class="webim-icons24 icons24-back "></em></a><span class="title">请选择打招呼语</span></div><div class="im-dialog-content"><div class="greeting-box"><ul></ul></div></div></div></div></div><div id="panel-dialog-container-greeting"><div data-reactroot="" class="im-dialog im-dialog-bottom hide"><div class="im-dialog-mask"></div><div class="im-dialog-main" style="width: 100%; margin-left: 0px; left: 0px; border-radius: 0px;"><a href="javascript:;" class="btn-close">×</a><div class="im-dialog-header"><a href="javascript:;" class="btn-back"><em class="webim-icons24 icons24-back "></em></a><span class="title">请选择打招呼语</span></div><div class="im-dialog-content"><div class="greeting-box"><ul></ul></div></div></div></div></div></div></div>
 
