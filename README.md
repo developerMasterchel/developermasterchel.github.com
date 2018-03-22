@@ -45,6 +45,19 @@
   			</ul>
   		</div>
   	</div>
+	<div class="view-content">
+		<h3 class="resume-title">
+          <i class="icons32 icons32-clipboard"></i>GitHub 工程 
+        </h3>
+		<a target="_blank" href="https://github.com/developerMasterchel">https://github.com/developerMasterchel</a>
+	</div>
+	<div class="view-content">
+		<h3 class="resume-title">
+          <i class="icons32 icons32-clipboard"></i>码云 工程 
+        </h3>
+		<a target="_blank" href="https://gitee.com/organizations/chariesOrg/projects">https://gitee.com/organizations/chariesOrg/projects</a>
+	</div>
+	
   	<div class="view-content">
   		<h3 class="resume-title">
           <i class="icons32 icons32-clipboard"></i>基本资料
