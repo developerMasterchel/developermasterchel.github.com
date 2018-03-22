@@ -120,7 +120,7 @@
     border: #3d9ccc 1px solid;
 }
 .pagerbar a.first, .pagerbar a.disabled.first, .pagerbar a.disabled.last, .pagerbar a.last {
-    background-image: url(//concat.lietou-static.com/fe-c-pc/v5/images/common/pagerbar/page_bar.5e7e6a4b.png);
+    background-image: url();
     background-repeat: no-repeat;
     width: 5px;
 }
@@ -374,7 +374,7 @@ html {
   zoom: 1;
   width: 105px;
   height: 86px;
-  background: url(//concat.lietou-static.com/fe-c-pc/v5/images/common/icons/icon-100.a945a33e.png) no-repeat;
+  background: url() no-repeat;
 }
 .wrap-empty h3 {
   font-size: 16px;
@@ -393,7 +393,7 @@ html {
   *display: inline;
   width: 106px;
   height: 106px;
-  background: url(//concat.lietou-static.com/fe-c-pc/v5/images/common/app-code-download.3e4deaed.png) no-repeat;
+  background: url() no-repeat;
 }
 /* 空白页 end */
 /* 个人主页职位列表*/
@@ -479,7 +479,7 @@ html {
 #header-c-beta2 .header .logo a {
   float: left;
   padding-right: 60px !important;
-  background: url(//concat.lietou-static.com/fe-c-pc/v5/images/common/qxjlogo.ebeb56ac.png) 105px center no-repeat;
+  background: url() 105px center no-repeat;
 }
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
   display: block;
@@ -1854,7 +1854,7 @@ a.btn-light:hover {
   margin-right: .3em;
   line-height: 16px;
   vertical-align: text-top;
-  background-image: url(//concat.lietou-static.com/fe-c-pc/v5/images/common/icons/icon-16.921e4b91.png);
+  background-image: url();
   background-position: 16px 16px;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -1869,7 +1869,7 @@ a.btn-light:hover {
   margin-right: .3em;
   line-height: 20px;
   vertical-align: text-top;
-  background-image: url(//concat.lietou-static.com/fe-c-pc/v5/images/common/icons/icon-20.f5eb9486.png);
+  background-image: url();
   background-position: 32px 32px;
   background-repeat: no-repeat;
   overflow: hidden;
@@ -2708,7 +2708,7 @@ a.btn-light:hover {
   display: inline-block;
   *display: inline;
   *zoom: 1;
-  background-image: url(//concat.lietou-static.com/fe-c-pc/v5/images/common/icons/icons32.1a46c0f2.png);
+  background-image: url();
   background-repeat: no-repeat;
   background-size: 1056px 32px;
   width: 32px;
