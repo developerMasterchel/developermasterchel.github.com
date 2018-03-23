@@ -4,7 +4,6 @@
 <meta name="renderer" content="webkit"><!-- 使360浏览器 默认启用极速内核 -->
 <link rel="stylesheet" href="mycss3.css" "="" >
 
-
 <header id="header-p">
 <div class="card-main wrap view-wrap view-main view-content view-card clearfix"> 
   <h5>Chariesliven简历</h5>
