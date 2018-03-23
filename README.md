@@ -1,15 +1,20 @@
+<!DOCTYPE html>
+<!-- saved from url=(0090)file:///E:/1_git_workspace/git_%E7%AE%80%E5%8E%86/developermasterchel.github.com/README.md -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Chariesliven简历</title>
 <meta name="renderer" content="webkit"><!-- 使360浏览器 默认启用极速内核 -->
-<link rel="stylesheet" href="mycss3.css" "="" >
+<link rel="stylesheet" href="./mycss1.css" "="">
+<link rel="stylesheet" href="./mycss2.css" "="">
+<link rel="stylesheet" href="./mycss3.css" "="">
+</head>
+<body id="resume-view">
 
 <header id="header-p">
 <div class="card-main wrap view-wrap view-main view-content view-card clearfix"> 
   <h5>Chariesliven简历</h5>
   </div>
 </header>
-
 <div class="wrap view-wrap">
   <div class="view-main ">
   	<div class="view-content view-card clearfix">
@@ -342,3 +347,5 @@
     
   </div>
 </div>
+
+</body></html>
