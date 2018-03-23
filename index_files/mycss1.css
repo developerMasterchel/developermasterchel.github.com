@@ -1,0 +1,349 @@
+
+#im-root .chatwin .chat-list .message .resume-card .feedbackSelect {
+  position: absolute;
+  bottom: 38px;
+  right: -26px;
+}
+#im-root .chatwin .chat-list .message .resume-card .resume-card-main dl dd .feedback-btn {
+  text-align: center;
+  padding: 10px;
+  background: #fff;
+  border: 1px solid #cce0eb;
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur in="SourceAlpha" stdDeviation="3" /><feOffset dx="1" dy="1" result="offsetblur" /><feFlood flood-color="rgba(204,224,235,1)" /><feComposite in2="offsetblur" operator="in" /><feMerge><feMergeNode /><feMergeNode in="SourceGraphic" /></feMerge></filter></svg>#filter');
+  filter: drop-shadow(0px 0 3px #cce0eb);
+  -webkit-filter: drop-shadow(0px 0 3px #cce0eb);
+}
+#im-root .chatwin .chat-list .message .resume-card .resume-card-main dl dd .feedback-btn:before {
+  content: '';
+  width: 0;
+  height: 0;
+  border-width: 8px;
+  border-style: solid;
+  border-color: #cce0eb transparent transparent transparent;
+  position: absolute;
+  left: 51px;
+  bottom: -17px;
+}
+#im-root .chatwin .chat-list .message .resume-card .resume-card-main dl dd .feedback-btn:after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-width: 8px;
+  border-style: solid;
+  border-color: #fff transparent transparent transparent;
+  position: absolute;
+  left: 51px;
+  bottom: -16px;
+}
+#im-root .chatwin .chat-list .message .resume-card .resume-card-main dl dd .feedback-btn p {
+  margin: 0;
+}
+#im-root .chatwin .chat-list .message .resume-card .resume-card-main dl dd .feedback-btn p.title {
+  line-height: 16px;
+}
+#im-root .chatwin .chat-list .message .resume-card .resume-card-main dl dd .feedback-btn p .btn {
+  padding: 6px 12px;
+  background: #359bfb;
+  border-radius: 2px;
+  color: #fff;
+}
+#im-root .chatwin .chat-list .message .resume-card .resume-card-main dl dd .feedback-btn p .btn:hover {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  opacity: 0.8;
+}
+#im-root .chatwin .chat-list .message .rating-card {
+  border-radius: 4px;
+  -webkit-box-shadow: 0 0 7px #daedff;
+          box-shadow: 0 0 7px #daedff;
+  border: 1px solid #daedff;
+  padding: 10px;
+  margin: 0 auto;
+}
+#im-root .chatwin .chat-list .message .rating-card section {
+  font-size: 14px;
+  text-align: center;
+}
+#im-root .chatwin .chat-list .message .rating-card section h3 {
+  font-size: 14px;
+  line-height: 20px;
+  color: #0077ba;
+}
+#im-root .chatwin .chat-list .message .rating-card section hr {
+  width: 80%;
+  background: #f0f0f0;
+  margin: 10px auto;
+  border: none;
+}
+#im-root .chatwin .chat-list .message .rating-card section.not-rating h3, #im-root .chatwin .chat-list .message .rating-card section.rating-success h3 {
+  height: 16px;
+  background: url(//concat.lietou-static.com/fe-c-pc/v5/images/plugins/im-init-c/lib/message/rating-tit.90f9124d.png) no-repeat center center;
+}
+#im-root .chatwin .chat-list .message .rating-card section ul {
+  text-align: center;
+  margin-bottom: 10px;
+}
+#im-root .chatwin .chat-list .message .rating-card section.not-rating ul li .from-name {
+  color: #2c99fe;
+  padding: 0 7px;
+  font-size: 16px;
+}
+#im-root .chatwin .chat-list .message .rating-card section.rating-success ul {
+  margin: 20px 0;
+}
+#im-root .chatwin .chat-list .message .rating-card section.rating-bar ul {
+  margin-bottom: 20px;
+}
+#im-root .chatwin .chat-list .message .rating-card section ul li span i {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  cursor: pointer;
+}
+#im-root .chatwin .chat-list .message .rating-card section ul li button.btn-rating {
+  background-color: #2c99fe;
+  padding: 8px 15px;
+  margin-top: 10px;
+  border-radius: 4px;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  line-height: normal;
+}
+#im-root .chatwin .chat-list .message .job-card h3.hsend {
+  color: #666;
+}
+#im-root .chatwin .chat-list .message .job-card .chat-job {
+  display: block;
+  width: 279px;
+  text-decoration: none;
+}
+#im-root .chatwin .chat-list .message .job-card .chat-job dl {
+  padding: 9px 8px 12px;
+  line-height: 20px;
+  background: #fff;
+}
+#im-root .chatwin .chat-list .message .job-card .chat-job dl dt {
+  font-size: 14px;
+  color: #0096e0;
+}
+#im-root .chatwin .chat-list .message .job-card .chat-job dl dd {
+  color: #666;
+}
+#im-root .chatwin .chat-list .message .job-card .chat-job dl dd span {
+  float: left;
+}
+#im-root .chatwin .chat-list .message .job-card .chat-job dl dd em {
+  float: right;
+  color: #0077ba;
+  text-decoration: underline;
+}
+#im-root .chatwin .chat-list .message .job-card .chat-job dl dd em.no-thank {
+  border-radius: 2px;
+  padding: 0px 10px;
+  font-size: 12px;
+  color: #333;
+  line-height: 20px;
+  margin-left: 10px;
+  text-decoration: none;
+}
+#im-root .chatwin .chat-list .message .job-card .chat-job dl dd em.no-thank.active {
+  border: 1px solid #f95a4a;
+  color: #f95a4a;
+  cursor: pointer;
+  margin-top: -2px;
+}
+#im-root .chatwin .chat-list .message ul.feed-back a.job-link {
+  text-decoration: underline;
+}
+#im-root .chatwin .chat-list .message ul.feed-back a.cjob {
+  color: #fff;
+}
+#im-root .chatwin .refusejob-dialog-box {
+  padding: 0 15px;
+}
+#im-root .chatwin .refusejob-dialog-box p {
+  margin-right: -8px;
+}
+#im-root .chatwin .refusejob-dialog-box p a {
+  float: left;
+  padding: 5px 15px;
+  line-height: 28px;
+  font-size: 12px;
+  border: 1px solid #666;
+  color: #666;
+  white-space: nowrap;
+  text-decoration: none;
+  margin: 0 20px 10px 0;
+}
+#im-root .chatwin .refusejob-dialog-box p a:focus {
+  outline: none;
+}
+#im-root .chatwin .refusejob-dialog-box p a:hover {
+  color: #2c99fe;
+  border: 1px solid #2c99fe;
+}
+#im-root .chatwin .refusejob-dialog-box .btns-group {
+  text-align: center;
+  font-size: 12px;
+  margin-top: 25px;
+}
+#im-root .chatwin .refusejob-dialog-box a.btn {
+  color: #fff;
+  margin-left: 10px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main {
+  text-decoration: none;
+  color: #666;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl {
+  background: #fff;
+  position: relative;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dt {
+  position: absolute;
+  height: 100%;
+  background: #fc5943;
+  width: 50px;
+  text-align: center;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dt .icons32-resume {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  position: absolute;
+  top: 50%;
+  left: 11px;
+  margin-top: -16px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd {
+  margin-left: 50px;
+  min-width: 180px;
+  padding: 10px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li {
+  cursor: pointer;
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  position: relative;
+  width: 100%;
+  line-height: 15px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li em {
+  text-decoration: underline;
+  color: #0096e0;
+  float: left;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li em.muted {
+  color: #999;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li span {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  word-wrap: normal;
+  margin-right: 0.5em;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li span:last-child {
+  margin-right: 0;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li span.title {
+  max-width: 70px;
+  font-size: 14px;
+  color: #0096e0;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li span.edulevel {
+  max-width: 60px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li span.job-tit {
+  max-width: 40%;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li span.cpy-tit {
+  max-width: 50%;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li span.dq-name {
+  max-width: 120px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li span.separator {
+  padding: 0 0.5em;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd ul li .apply-feedback {
+  cursor: pointer;
+  float: right;
+  border-radius: 2px;
+  border: 1px solid #f95a4a;
+  padding: 0px 10px;
+  font-size: 12px;
+  color: #f95a4a;
+  line-height: 20px;
+  height: 20px;
+}
+#im-root .chatwin .chat-list .message .name-card .feedbackSelect {
+  position: absolute;
+  bottom: 38px;
+  right: -26px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd .feedback-btn {
+  text-align: center;
+  padding: 10px;
+  background: #fff;
+  border: 1px solid #cce0eb;
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur in="SourceAlpha" stdDeviation="3" /><feOffset dx="1" dy="1" result="offsetblur" /><feFlood flood-color="rgba(204,224,235,1)" /><feComposite in2="offsetblur" operator="in" /><feMerge><feMergeNode /><feMergeNode in="SourceGraphic" /></feMerge></filter></svg>#filter');
+  filter: drop-shadow(0px 0 3px #cce0eb);
+  -webkit-filter: drop-shadow(0px 0 3px #cce0eb);
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd .feedback-btn:before {
+  content: '';
+  width: 0;
+  height: 0;
+  border-width: 8px;
+  border-style: solid;
+  border-color: #cce0eb transparent transparent transparent;
+  position: absolute;
+  left: 51px;
+  bottom: -17px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd .feedback-btn:after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-width: 8px;
+  border-style: solid;
+  border-color: #fff transparent transparent transparent;
+  position: absolute;
+  left: 51px;
+  bottom: -16px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd .feedback-btn p {
+  margin: 0;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd .feedback-btn p.title {
+  line-height: 16px;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd .feedback-btn p .btn {
+  padding: 6px 12px;
+  background: #359bfb;
+  border-radius: 2px;
+  color: #fff;
+}
+#im-root .chatwin .chat-list .message .name-card .name-card-main dl dd .feedback-btn p .btn:hover {
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+  opacity: 0.8;
+}
+#im-root .chatwin .chat-list .message .ask-resume {
+  font-size: 12px;
+}
+#im-root .chatwin .chat-list .message .ask-resume .ask-btns {
+  margin-top: 10px;
+}
+#im-root .chatwin .chat-list .message .ask-resume .ask-btns a {
+  color: #1178b8;
+  text-decoration: underline;
+  margin-right: 15px;
+}
+#im-root .chatwin .chat-list .message .ask-resume .ask-btns a.muted {
+  color: #999;
+}
